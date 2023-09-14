@@ -1,0 +1,12 @@
+.backgroundLogin{
+  background-image: url("../../background77.jpg");
+  background-position: center;
+  background-size: cover;
+}
+.loginContainer {
+  display: flex;
+  flex-direction: column;
+  margin: 20px;
+  
+}
+
